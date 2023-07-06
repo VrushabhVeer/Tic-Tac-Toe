@@ -4,7 +4,7 @@ This is a basic two-player Tic Tac Toe game website built using JavaScript, HTML
 
 ## Getting Started
 
-To get started with the game, you can visit the [Tic Tac Toe website](https://vrushabhveer.github.io/Tic-Tac-Toe/) and start playing right away.
+To get started with the game, you can visit the [Tic Tac Toe website](https://vermillion-pithivier-8e9b93.netlify.app) and start playing right away.
 
 ## Features
 
@@ -23,6 +23,6 @@ To get started with the game, you can visit the [Tic Tac Toe website](https://vr
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
 
-
+## Preview
 ![one](https://github.com/VrushabhVeer/Tic-Tac-Toe/assets/99570200/11a6f7a9-58ce-42e7-9085-16d661c1d9f6)
 ![two](https://github.com/VrushabhVeer/Tic-Tac-Toe/assets/99570200/85705ee3-5be6-4a18-b312-a26300ddbd6e)
